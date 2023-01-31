@@ -1,1 +1,1 @@
-# java102SQL
+# java102 SQL Ödevleri
